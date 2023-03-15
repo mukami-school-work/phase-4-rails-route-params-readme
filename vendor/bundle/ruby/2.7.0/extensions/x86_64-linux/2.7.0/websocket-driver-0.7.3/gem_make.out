@@ -1,0 +1,18 @@
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/moringa/.rbenv/versions/2.7.4/bin/ruby -I /home/moringa/.rbenv/versions/2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-55282-prle2m sitelibdir\=./.gem.20230315-55282-prle2m clean
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-55282-prle2m sitelibdir\=./.gem.20230315-55282-prle2m
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-55282-prle2m sitelibdir\=./.gem.20230315-55282-prle2m install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20230315-55282-prle2m
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230315-55282-prle2m sitelibdir\=./.gem.20230315-55282-prle2m clean
